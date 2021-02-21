@@ -1,1 +1,1 @@
-# QOSF
+# QOSF Mentorship Program
